@@ -80,8 +80,3 @@ src/
 ```
 
 
-## Contact
-
-For any inquiries, please contact us at:
-- Email: info@egyventure.com
-- Website: https://egyventure.com
