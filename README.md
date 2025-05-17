@@ -67,9 +67,6 @@ Before you begin, ensure you have the following installed:
 - Blog section
 - Contact form
 
-## Support
-
-For any questions or issues, please contact the development team.
 
 ## Project Structure
 
@@ -82,17 +79,6 @@ src/
 └── main.jsx       # Application entry point
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
